@@ -1,0 +1,1 @@
+.action-group{border-width:1px;background-color:var(--color-white);padding-left:1rem;padding-right:1rem}.action-group:first-child{border-top-left-radius:10px;border-top-right-radius:10px}.action-group:last-child{border-bottom-right-radius:10px;border-bottom-left-radius:10px}.action-group+.action-group{border-top-width:0px}
